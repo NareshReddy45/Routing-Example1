@@ -1,0 +1,21 @@
+.about-container {
+  text-align: center;
+  padding: 50px;
+}
+
+.about-image {
+  width: 250px;
+  height: auto;
+  margin-bottom: 20px;
+}
+
+.about-heading {
+  font-size: 32px;
+  color: #551e53;
+  font-weight: bold;
+}
+
+.about-description {
+  font-size: 18px;
+  color: #333333;
+}
